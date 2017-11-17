@@ -1,0 +1,14 @@
+.top li {
+    display: inline;
+
+}
+
+.inline {
+display: block;
+border: 1px solid black;
+margin: 25px;
+
+}
+.n-child :nth-child(2n) {
+    border: 1px solid black;
+}
